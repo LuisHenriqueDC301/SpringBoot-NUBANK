@@ -1,4 +1,4 @@
-package spring.boot.desafio.nubank.config;
+package spring.boot.desafio.nubank.Config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
